@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **smishra8898@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11FLEqA82Tz0xi4_zYeKB3SQm3VU2qt0y/view?usp=share_link](https://drive.google.com/file/d/11FLEqA82Tz0xi4_zYeKB3SQm3VU2qt0y/view?usp=share_link)
-
 - ⚡ Talking about Ambition! **Find me on all Top Fortune!**
 
 <h3 align="left">Connect with me:</h3>
