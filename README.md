@@ -1,28 +1,140 @@
-<h1 align="center">Hi 👋, I'm Shobhit Mishra</h1>
-<h3 align="center">Penetration Testing | Ethical Hacking | Bug Bounty | CyberSecurity Enthusiast | VAPT & WAPT</h3>
+<h1 align="center" style="color:#00ff00; font-family:'Courier New', monospace; text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;">
+  👾 Hi, I'm Shobhit Mishra 👾
+</h1>
 
-- 🔭 I’m currently working on Recon Tool [SWS-Recon-Tool](https://github.com/ShobhitMishra-bot/SWS-Recon-Tool)
-
-- 🌱 I’m currently learning **RCE-Remote code execution attack vulnerabilities**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShobhitMishra-bot](https://github.com/ShobhitMishra-bot)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shobhitmishra-learner/](https://www.linkedin.com/in/shobhitmishra-learner/)
-
-- 💬 Ask me about **CyberSecurity, Bugs, Tools, Tips,etc**
-
-- 📫 How to reach me **smishra8898@gmail.com**
-
-- ⚡ Talking about Ambition! **Find me on all Top Fortune!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/secwithshobhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="secwithshobhit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shobhitmishra-learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhitmishra-learner" height="30" width="40" /></a>
-<a href="https://instagram.com/shobhit.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shobhit.exe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/securewithshobhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="securewithshobhit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/smishra8898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smishra8898" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Application+Security+Engineer;Malware+Analyst+%7C+OffSec+Researcher;Threat+Intel+%7C+Bug+Bounty+Hunter;Android+Security+%7C+Infra+Hunter" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=ecf05e4774v10y2vf6jvm9c6yumgv4tnsl4pio7d0m21j3t6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" alt="Hacker GIF"/>
+</p>
+
+```
+> Initializing Terminal...  
+> Establishing shell access with `shobhit@security:~$`  
+> Fetching profile data ████████████████████ 100%
+```
+
+---
+
+### ❯ About Me
+
+```
+┌──(shobhit㉿terminal)-[~/about]
+└─$ cat about_me.txt
+
+• Security Researcher | Application Security | Malware Analyst | Threat Intelligence
+• Developing: Android-based Malware Sandbox (Dynamic Analysis)
+• Build: Android-based Malware Sandbox (Dynamic Analysis) | Automation for Red Teaming
+• Researcher: UPI Banking Threats (Featured on ET & MSN)
+• Certifications: OSCP, CISSP (Ongoing)
+• Interest Areas: Infra Hunting, Mobile Threats, Binary Exploits, Android RE
+• Mission: Empower Red + Blue teams with tools, insights & active threat tracking
+```
+
+---
+
+### ❯ Core Skills
+
+```
+┌──(shobhit㉿terminal)-[~/skills]
+└─$ ls -lh
+
+[+] Offensive Security       █████████████████████ 100%  
+[+] Malware Analysis         █████████████████████ 100%  
+[+] Threat Intelligence      █████████████████████ 100%  
+[+] Android Security         ████████████████████░ 95%  
+[+] Pentesting (VAPT/WAPT)   ████████████████████░ 95%  
+[+] Infra Hunting & OSINT    ██████████████████░░░ 90%  
+[+] Incident Response        █████████████████░░░░ 85%  
+```
+
+---
+
+### ❯ Tech Stack & Tools
+
+```
+┌──(shobhit㉿terminal)-[~/tools]
+└─$ cat tech_stack.txt
+
+Languages   : Python, Bash, C++, Java, JavaScript, HTML
+Platforms   : Linux, Android, Windows, Termux
+Frameworks  : Flask, Streamlit, Node.js
+Pentest     : Nmap, Burp Suite, Metasploit, Nikto
+Malware Lab : Ghidra, MobSF, IDA, Apktool, Frida
+Threat Intel: VirusTotal API, YARA, Zeek, Suricata, MISP, TheHive
+Cloud Tools : AWS, Azure, Docker, Git, Kubernetes
+Databases   : MongoDB, MySQL, SQLite
+```
+
+---
+
+### ❯ Projects
+
+```
+┌──(shobhit㉿terminal)-[~/projects]
+└─$ tree
+
+|-- SWS-Recon-Tool
+|   └── Automates OSINT & Recon for Bug Bounty
+|
+|-- Android Sandbox
+|   └── WIP Dynamic Analysis for APK Behavior
+|
+|-- Threat Feed Generator
+|   └── IOC Enrichment & Automation
+|
+|-- YARA Rules Repo
+|   └── Private Android malware detection signatures
+|
+|-- Writeups & Methodologies
+    └── https://medium.com/@SecWithShobhit
+```
+
+---
+
+### ❯ Recognitions & Media
+
+```
+┌──(shobhit㉿terminal)-[~/achievements]
+└─$ cat achievements.md
+
+• Featured by Economic Times & MSN (UPI Vulnerability Research)
+• BugCrowd Hall of Fame (Top Researcher)
+• Recognized by: Cisco Cloud, Lenovo, DocuSign, Deutsche Bank, CIBC VDP
+• Contributed to: ETLM, APT profiling, Threat Intel pipelines
+• Active content creator: Write-ups, Red Team tools, OSINT techniques
+```
+
+---
+
+### ❯ Connect with Me
+
+```
+┌──(shobhit㉿terminal)-[~/contact]
+└─$ curl -s https://me.shobhitmishra.dev
+
+[+] LinkedIn   : https://linkedin.com/in/shobhitmishra-learner  
+[+] Twitter    : https://twitter.com/secwithshobhit  
+[+] Medium     : https://medium.com/@SecWithShobhit  
+[+] GitHub     : https://github.com/ShobhitMishra-bot  
+[+] YouTube    : https://youtube.com/c/SecureWithShobhit  
+[+] HackerRank : https://www.hackerrank.com/smishra8898  
+[+] Email      : smishra8898@gmail.com
+```
+
+---
+
+### ❯ GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShobhitMishra-bot&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShobhitMishra-bot&theme=tokyonight"/>
+</p>
+
+---
+
+> `"The quieter you become, the more you are able to hear."`  
+> — *Cybersecurity is not just a job, it’s a way of thinking.*
