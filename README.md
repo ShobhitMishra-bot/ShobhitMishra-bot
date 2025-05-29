@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer;Malware+Analyst+%7C+OffSec+Researcher;Threat+Intel+%7C+Bug+Bounty+Hunter;Product+Security+%7C+Infra+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer;Malware+Analysis+%7C+OffSec+Researcher;Threat+Intel+%7C+Bug+Bounty+Hunter;Product+Security+%7C+Infra+Hunter" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ┌──(shobhit㉿terminal)-[~/about]
 └─$ cat about_me.txt
 
-• Cloud Security | Product Security | Malware Analyst | Threat Intelligence
+• Cloud Security | Product Security | Malware Analysis | Threat Intelligence
 • Developing: Android-based Malware Sandbox (Dynamic Analysis)
 • Build: Android-based Malware Sandbox (Dynamic Analysis) | Automation for Red Teaming
 • Researcher: UPI Banking Threats (Featured on ET & MSN)
