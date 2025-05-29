@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Application+Security+Engineer;Malware+Analyst+%7C+OffSec+Researcher;Threat+Intel+%7C+Bug+Bounty+Hunter;Android+Security+%7C+Infra+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer;Malware+Analyst+%7C+OffSec+Researcher;Threat+Intel+%7C+Bug+Bounty+Hunter;Product+Security+%7C+Infra+Hunter" alt="Typing SVG" />
 </p>
 
 <p align="center">
