@@ -24,12 +24,12 @@
 ┌──(shobhit㉿terminal)-[~/about]
 └─$ cat about_me.txt
 
-• Security Researcher | Application Security | Malware Analyst | Threat Intelligence
+• Cloud Security | Product Security | Malware Analyst | Threat Intelligence
 • Developing: Android-based Malware Sandbox (Dynamic Analysis)
 • Build: Android-based Malware Sandbox (Dynamic Analysis) | Automation for Red Teaming
 • Researcher: UPI Banking Threats (Featured on ET & MSN)
-• Certifications: OSCP, CISSP (Ongoing)
-• Interest Areas: Infra Hunting, Mobile Threats, Binary Exploits, Android RE
+• Certifications: AWS Certified Security-Specialty, CompTIA Security+, CompTIA CySA+ , CISSP (Ongoing)
+• Interest Areas: Cloud Security, Threat Intelligence, Malware Analysis
 • Mission: Empower Red + Blue teams with tools, insights & active threat tracking
 ```
 
@@ -41,10 +41,10 @@
 ┌──(shobhit㉿terminal)-[~/skills]
 └─$ ls -lh
 
-[+] Offensive Security       █████████████████████ 100%  
+[+] Cloud Security           █████████████████████ 100%  
 [+] Malware Analysis         █████████████████████ 100%  
 [+] Threat Intelligence      █████████████████████ 100%  
-[+] Android Security         ████████████████████░ 95%  
+[+] Product Security         ████████████████████░ 95%  
 [+] Pentesting (VAPT/WAPT)   ████████████████████░ 95%  
 [+] Infra Hunting & OSINT    ██████████████████░░░ 90%  
 [+] Incident Response        █████████████████░░░░ 85%  
